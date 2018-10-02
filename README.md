@@ -24,4 +24,8 @@ Open Visual C++ or (Visual Studio 2017 as in screen shots)
 ![untitled](https://user-images.githubusercontent.com/41892175/46332590-abb0b200-c64f-11e8-8463-0ca3016b81f7.png)
 
   9. If there are no errors, select **Start without debugging** from the **Debug** menu to run the file or press Ctrl+F5.
+  ![untitled](https://user-images.githubusercontent.com/41892175/46332663-fdf1d300-c64f-11e8-80fd-67544068d9b3.png)
   
+ Hello World! will appear in the console. 
+ 
+ Congratulations you’ve just created you first VC++ application.
