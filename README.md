@@ -21,3 +21,7 @@ Open Visual C++ or (Visual Studio 2017 as in screen shots)
   ![untitled](https://user-images.githubusercontent.com/41892175/46332387-db12ef00-c64e-11e8-86eb-bb63491c1e4f.png)
   
   8. Press **Ctrl+Shift+B** to build the project. Alternatively, select **Build Solution** from the **Build** menu. The build progess will appear in the **Output** window.
+![untitled](https://user-images.githubusercontent.com/41892175/46332590-abb0b200-c64f-11e8-8463-0ca3016b81f7.png)
+
+  9. If there are no errors, select **Start without debugging** from the **Debug** menu to run the file or press Ctrl+F5.
+  
