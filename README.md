@@ -8,3 +8,7 @@ Open Visual C++ or (Visual Studio 2013 as in screen shots)
 
   2. In the **Visual C++** category, choose the **General** --> **Empty Project** template.
   3. Enter a valid name in the **Name** field like **GreetingsApp** and click **OK**.
+  ![untitled](https://user-images.githubusercontent.com/41892175/46332006-04328000-c64d-11e8-8d6d-57e270662244.png)
+
+  4. In the **Solution Explorer** panel, right **click Source Files**, select **Add --> New Item**.
+  
