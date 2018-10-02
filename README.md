@@ -15,5 +15,14 @@ Open Visual C++ or (Visual Studio 2013 as in screen shots)
   
   5. In the Add new item dialog, click on **Code**. Under Templates click on **C++ File(.cpp)**
   6. Enter a name for the newly created file like **Greetings.cpp** and click **Add**.
+  ![untitled](https://user-images.githubusercontent.com/41892175/46332140-a8b4c200-c64d-11e8-804a-ec4f0046fd62.png)
   
-  
+  7. A blank editor window will be displayed. Type in or copy and paste the following code:
+  '''
+  #include <iostream>
+  using namespace std;
+  void main(){
+    cout << "Hello World!" << endl;
+    system("pause");
+  }
+  '''
