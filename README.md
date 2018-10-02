@@ -17,7 +17,7 @@ Open Visual C++ or (Visual Studio 2017 as in screen shots)
   6. Enter a name for the newly created file like **Greetings.cpp** and click **Add**.
   ![untitled](https://user-images.githubusercontent.com/41892175/46332140-a8b4c200-c64d-11e8-804a-ec4f0046fd62.png)
   
-  7. A blank editor window will be displayed. Type in or copy and paste the following code:
+  7. A blank editor window will be displayed. Type in the following code:
   ![untitled](https://user-images.githubusercontent.com/41892175/46332387-db12ef00-c64e-11e8-86eb-bb63491c1e4f.png)
   
   8. Press **Ctrl+Shift+B** to build the project. Alternatively, select **Build Solution** from the **Build** menu. The build progess will appear in the **Output** window.
