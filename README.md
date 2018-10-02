@@ -1,7 +1,7 @@
 # Writing First C++ Program in Microsoft Visual C++ : Hello World Example
 Introduction to Microsoft Visual Studio by writing Hello World Program in C++
 
-Open Visual C++ or (Visual Studio 2013 as in screen shots)
+Open Visual C++ or (Visual Studio 2017 as in screen shots)
 
   1.  On the menu bar, choose **File** --> **New** --> **Project**.
 ![untitled](https://user-images.githubusercontent.com/41892175/46331912-a2721600-c64c-11e8-9d6a-8dba145973b9.png)
@@ -18,11 +18,14 @@ Open Visual C++ or (Visual Studio 2013 as in screen shots)
   ![untitled](https://user-images.githubusercontent.com/41892175/46332140-a8b4c200-c64d-11e8-804a-ec4f0046fd62.png)
   
   7. A blank editor window will be displayed. Type in or copy and paste the following code:
-  '''
+  ```
   #include <iostream>
+  
   using namespace std;
+  
   void main(){
+  
     cout << "Hello World!" << endl;
     system("pause");
   }
-  '''
+  ```
